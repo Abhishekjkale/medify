@@ -1,0 +1,6 @@
+{
+  "name": "Medify",
+  "description": "Mindfulness, yoga, and meditation wellness app with empathetic AI summaries",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

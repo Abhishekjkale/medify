@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer ambient leaf petals -->
+    <path
+        android:fillColor="#80E2F7E9"
+        android:pathData="M54,26 C54,26 34,42 34,58 C34,68 42,76 54,76 C66,76 74,68 74,58 C74,42 54,26 54,26 Z" />
+    <!-- Center serene lotus petal -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,32 C54,32 40,46 40,60 C40,67 46,73 54,73 C62,73 68,67 68,60 C68,46 54,32 54,32 Z" />
+    <!-- Left petal -->
+    <path
+        android:fillColor="#E6BCEECE"
+        android:pathData="M44,60 C38,54 28,54 26,62 C24,70 34,74 44,70 C46,67 45,63 44,60 Z" />
+    <!-- Right petal -->
+    <path
+        android:fillColor="#E6BCEECE"
+        android:pathData="M64,60 C70,54 80,54 82,62 C84,70 74,74 64,70 C62,67 63,63 64,60 Z" />
+    <!-- Inner calming droplet / aura dot -->
+    <path
+        android:fillColor="#2E6B4F"
+        android:pathData="M54,54m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0" />
+</vector>
+
